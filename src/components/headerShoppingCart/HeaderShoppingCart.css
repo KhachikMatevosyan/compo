@@ -1,0 +1,23 @@
+.shoppingCart {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 148px;
+  height: 48px;
+  border-radius: 8px;
+  border: none;
+  background-color: #f2f6ff;
+}
+.shoppingCartIcon {
+  background-image: url('../../assets/icon/shoppingCart.svg');
+  width: 24px;
+  height: 24px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.shopingCartText {
+  font-family: Gotham;
+  font-weight: 700;
+  font-size: 14px;
+  color: #1551e5;
+}

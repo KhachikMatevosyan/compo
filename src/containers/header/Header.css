@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-around;
+  align-items: stretch;
+  padding: 8px;
+}

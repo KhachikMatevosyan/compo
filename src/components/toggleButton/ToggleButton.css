@@ -1,0 +1,59 @@
+.toShoppingCart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 284px;
+  height: 56px;
+  border-radius: 8px;
+  border: none;
+  background-color: #1551e5;
+}
+.toShoppingCartIcon {
+  background-image: url('../../assets/icon/whithSoppingCart.svg');
+  width: 24px;
+  height: 24px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-right: 12px;
+}
+.toShopingCartText {
+  font-family: Gotham;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.counter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 284px;
+  height: 56px;
+  border-radius: 8px;
+  border: solid 2px #1551e5;
+}
+.minus {
+  background-image: url('../../assets/icon/minus.svg');
+  width: 24px;
+  height: 24px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: none;
+  background-color: #ffffff;
+  margin-left: 8px;
+}
+.plus {
+  background-image: url('../../assets/icon/plus.svg');
+  width: 24px;
+  height: 24px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: none;
+  background-color: #ffffff;
+  margin-right: 8px;
+}
+.counterText {
+  font-family: Gotham;
+  font-weight: 500;
+  line-height: 24px;
+  font-size: 16px;
+}

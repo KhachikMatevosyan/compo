@@ -1,0 +1,21 @@
+.logo {
+  display: flex;
+  align-items: baseline;
+  align-items: center;
+}
+.logoIcon {
+  background-image: url('../../assets/icon/logo.svg');
+  width: 27px;
+  height: 28px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logoName {
+  background-image: url('../../assets/icon/logoName.svg');
+  width: 107px;
+  height: 24px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 7px;
+  margin-left: 4px;
+}
